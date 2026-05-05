@@ -175,7 +175,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>E-commerce Cart Management System © 2024</p>
+        <p>E-commerce Cart Management System © 2026</p>
       </footer>
     </div>
   );

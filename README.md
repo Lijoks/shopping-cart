@@ -247,7 +247,7 @@ Create a `LICENSE` file in your root folder:
 
 MIT License
 
-Copyright (c) 2024 Lijoks Adedoyin
+Copyright (c) 2026 Lijoks Adedoyin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
